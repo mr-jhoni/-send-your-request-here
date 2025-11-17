@@ -9848,7 +9848,7 @@
                                         children: "Detailed Video Information"
                                     }), (0,
                                     he.jsx)("video", {
-                                        src: "https://vio-video.vercel.app/WhatsApp%20Video%202024-11-26%20at%2013.24.43_9bcb50f5%20(1).mp4",
+                                        src: "https://hwtwzunrlegrqrhtompr.supabase.co/storage/v1/object/sign/fokindvedio/english%20(1).mp4?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV83MDlmYjNjZi0zNDRkLTQ3ZjItYTE4MC0wYmVhY2UzNzI2MzUiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJmb2tpbmR2ZWRpby9lbmdsaXNoICgxKS5tcDQiLCJpYXQiOjE3NTQ3MzA2NjQsImV4cCI6MTc4NjI2NjY2NH0.oj240Fj5aLRmFhnr5jLNB-meH5GpugxRXJDVfjjbqmo",
                                         controls: !0,
                                         poster: me,
                                         autoPlay: !0
